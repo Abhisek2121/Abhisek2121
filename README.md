@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhisek2121/Abhisek2121/blob/main/Red%20%26%20Black%20Geometric%20Gamer%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm KUMAR ABHISEK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mikeaparicio.com/images/fullstackdeveloper.gif">
