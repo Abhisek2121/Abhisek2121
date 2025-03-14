@@ -1,7 +1,7 @@
 ![logo](https://github.com/Abhisek2121/Abhisek2121/blob/main/Red%20%26%20Black%20Geometric%20Gamer%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm KUMAR ABHISEK</h1>
 <h3 align="center">A Begineer trying to step his feet into the corprate world</h3>
-<img align="right" alt="Coding" width="400" src="https://mikeaparicio.com/images/fullstackdeveloper.gif">
+<img align="right" alt="Coding" width="400" src="[https://mikeaparicio.com/images/fullstackdeveloper.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw3RaRZO_THxhU40dqHlcRGA&ust=1742020347563000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjAtNL5iIwDFQAAAAAdAAAAABBh)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2121&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2121" /> </p>
 
