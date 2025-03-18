@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/thesunjrs/">
-    <img width="50px" src="https://github.com/thesunjrs/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" />
+  <a href="https://www.instagram.com/abhisek._21/">
+    <img width="50px" src="https://github.com/abhisek2121/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditya-jyotiraditya-72050b212/">
