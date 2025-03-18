@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername) 
-<img src="https://github.com/thesunjrs/thesunjrs/blob/main/assets/banner.gif" >
+<img src="https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif" >
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+thesunjrs.)](https://git.io/typing-svg)
 - Building smart systems with Spring Boot, gRPC, and OpenAI’s API, always pushing for speed and efficiency  
 - Exploring the world of presales with TOGAF and SAP S/4HANA, making businesses work smarter  
