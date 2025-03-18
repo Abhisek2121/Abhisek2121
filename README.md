@@ -1,10 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername) 
 <img src="https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif" >
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Hey+Developers!!+;this+is+KumarAbhisek.)](https://git.io/typing-svg)
-- Building smart systems with Spring Boot, gRPC, and OpenAI’s API, always pushing for speed and efficiency  
-- Exploring the world of presales with TOGAF and SAP S/4HANA, making businesses work smarter  
-- Chess, table tennis, and the daily grind of getting sharper, faster, and better  
-- Web series, movies, music, and those much-needed café and mall escapes to stay sane
+
 
 <p align="center">
   <a href="https://www.instagram.com/thesunjrs/">
