@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/adnahmed/adnahmed/output/github-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
-<h1 align="center">
+<h1 align="center"> 
   <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uZa9x3/giphy.gif" width="30px">&nbsp;
   WELCOME EVERYBODY&nbsp;
   <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uZa9x3/giphy.gif" width="30px">
